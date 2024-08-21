@@ -1,0 +1,89 @@
+{
+    "productos_array":   
+    [
+        {
+            "producto_id": 0,
+            "nombre_producto": "Matambre",
+            "imagen_producto": "/assets/img/matambre.png",
+            "descripcion_producto": "Matambre de ternera, calidad premium",
+            "precio_producto": "$10.900" 
+        },
+        {
+            "producto_id": 1,
+            "nombre_producto": "Vacio",
+            "imagen_producto": "/assets/img/vacio.png",
+            "descripcion_producto": "Vacio de ternera, calidad premium",
+            "precio_producto": "$9.900" 
+        },
+        {
+            "producto_id": 2,
+            "nombre_producto": "Costilla",
+            "imagen_producto": "/assets/img/costilla.png",
+            "descripcion_producto": "Costilla de ternera, calidad premium",
+            "precio_producto": "$9.900" 
+        },
+        {
+            "producto_id": 3,
+            "nombre_producto": "Tapa de nalga",
+            "imagen_producto": "/assets/img/tapa_de_nalga.jpg",
+            "descripcion_producto": "Tapa de nalga de ternera, calidad premium",
+            "precio_producto": "$9.500" 
+        },
+        {
+            "producto_id": 4,
+            "nombre_producto": "Matambre de cerdo",
+            "imagen_producto": "/assets/img/matambre_de_cerdo.jpg",
+            "descripcion_producto": "Matambre de cerdo, calidad premium",
+            "precio_producto": "$10.900" 
+        },
+        {
+            "producto_id": 5,
+            "nombre_producto": "Pechito de cerdo",
+            "imagen_producto": "/assets/img/pechito_de_cerdo.jpg",
+            "descripcion_producto": "Pechito de cerdo, calidad premium",
+            "precio_producto": "$7.900" 
+        },
+        {
+            "producto_id": 6,
+            "nombre_producto": "Costeletas de cerdo",
+            "imagen_producto": "/assets/img/costeletas_de_cerdo.jpg",
+            "descripcion_producto": "Costeletas de cerdo, calidad premium",
+            "precio_producto": "$7.500" 
+        },
+        {
+            "producto_id": 7,
+            "nombre_producto": "Bondiola de cerdo",
+            "imagen_producto": "/assets/img/bondiola_de_cerdo.jpg",
+            "descripcion_producto": "Bondiola de cerdo, calidad premium",
+            "precio_producto": "$8.900" 
+        },
+        {
+            "producto_id": 8,
+            "nombre_producto": "Pata muslo",
+            "imagen_producto": "/assets/img/pata_muslo.jpg",
+            "descripcion_producto": "Pata muslo de pollo, calidad premium",
+            "precio_producto": "$2.900" 
+        },
+        {
+            "producto_id": 9,
+            "nombre_producto": "Pechuga de pollo",
+            "imagen_producto": "/assets/img/pechuga_de_pollo.jpg",
+            "descripcion_producto": "Pechuga de pollo, calidad premiium",
+            "precio_producto": "$7.900" 
+        },
+        {
+            "producto_id": 10,
+            "nombre_producto": "Milanesas de pollo",
+            "imagen_producto": "/assets/img/milanesas_de_pollo.jpg",
+            "descripcion_producto": "Milanesas de pollo, calidad premium",
+            "precio_producto": "$4.900" 
+        },
+        {
+            "producto_id": 11,
+            "nombre_producto": "Hamburguesas de pollo",
+            "imagen_producto": "/assets/img/hamburguesas_de_pollo.jpg",
+            "descripcion_producto": "Hamburguesas de pollo, calidad premium",
+            "precio_producto": "$4.000" 
+        }
+    ]
+}
